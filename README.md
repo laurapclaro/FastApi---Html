@@ -83,7 +83,7 @@ POST	/cadastro	Salva novo aluno e redireciona
 <!-- código do seu cadastro.html aqui -->
 
 🎨 CSS (static/style.css)
-/* Seu CSS completo enviado */
+
 
 🖼️ Visual (simulado)
 
