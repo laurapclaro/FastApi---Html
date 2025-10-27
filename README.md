@@ -24,9 +24,7 @@ HTML / CSS
 
 Clone o repositório:
 
-git clone https://github.com/usuario/api-alunos.git
-cd api-alunos
-
+git clone https://github.com/laurapclaro/FastApi---Html
 
 Crie um ambiente virtual (opcional):
 
